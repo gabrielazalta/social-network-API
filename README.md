@@ -18,6 +18,7 @@ This is an Express.js, MongoDB, and Mongoose ODM based API for a social network 
 
 ## Walkthrough Video
 
+[Go to video!](https://youtu.be/HcRcxcbjKzc)
 
 
 ## Contribution
